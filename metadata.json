@@ -1,0 +1,6 @@
+{
+  "name": "The Gateway to Infinity",
+  "description": "An immersive, cinematic symposium website for inteleza '26, featuring floating space gateways, interactive 3D particle systems, dynamic holographic panels, and an AI-powered communication center.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
